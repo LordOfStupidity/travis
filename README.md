@@ -13,6 +13,8 @@ Right now, the way you use this solution is to build it and run the unit tests f
 
 * Uri -- Implementation of [RFC 3986](https://tools.ietf.org/html/rfc3986),
   "Uniform Resource Identifier (URI): Generic Syntax"
+* StringExtensions -- This is library contains C++ string-oriented utilities, many of which ought to
+be in the standard library, but aren't.
 
 ## Supported platforms / recommended toolchains
 

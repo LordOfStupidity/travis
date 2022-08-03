@@ -76,7 +76,8 @@ if(ParentDirectory STREQUAL "")
     )
 
     # All other libraries can be pulled in without further configuration.
-    add_subdirectory(Uri StringExtensions)
+    add_subdirectory(Uri)
+    add_subdirectory(StringExtensions)
 
 endif(ParentDirectory STREQUAL "")
 

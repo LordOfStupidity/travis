@@ -1,6 +1,6 @@
-# Bloop
+# Travis
 
-Bloop is a placeholder name which I absolutely didn't steal from my username.
+Don't ask me why I named it Travis because idk as well. It's an experimental webserver, which I'm building following Rhymu's Web server series.
 
 ## Usage
 
